@@ -1,0 +1,25 @@
+Si por ahí creo que B también es una referencia.
+Bien.
+Pasamos entonces a las gramáticas formales.
+¿Quieren crear una gramática formal?
+Quien eres? Soy Serina, en que te puedo ayudar?
+La respuesta de Si Si
+
+La respuesta de Hola Hola, en que te puedo ayudar?
+Hola: Hola, en que te puedo ayudar?
+Hola: Hola
+¿Como estas?: Muy bien, en que te puedo ayudar?
+la respuesta de como estas? Muy bien, en que te puedo ayudar?
+¿? Signos de interrogación
+Muy bien y tu la respuestas como estas?
+Quiero hacer una compra
+Resp: Que deseas comprar?
+Deseo comprar unas zapatillas
+Resp: Enviame la foto de la zapatilla para saber si esta disponible
+Buenos dias
+Resp: Buenos dias, en que te puedo ayudar?
+Buenas tardes
+Buenas tardes, en que te puedo ayudar?
+Como estas? 
+Muy bien, gracias por preguntar
+
